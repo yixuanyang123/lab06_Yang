@@ -1,3 +1,4 @@
+# Name: Yixuan Yang
 def encode(password):
     encoded_password = ""
     for element in password:
